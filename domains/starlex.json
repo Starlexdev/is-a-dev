@@ -1,0 +1,10 @@
+{
+  "description": "starlex.is-a.dev",
+  "repo": "https://github.com/Starlexdev/indigo",
+  "owner": {
+    "username": "Starlexdev"
+    "email": "starlex@duck.com"
+  },
+  "record": {
+    "CNAME": "starlexdev.github.io"
+  }
